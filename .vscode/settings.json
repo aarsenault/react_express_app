@@ -1,0 +1,7 @@
+{
+  // Enable/disable default JavaScript formatter (For Prettier)
+  "editor.formatOnSave": true,
+  // Enable/disable default JavaScript formatter (For Prettier)
+  "javascript.format.enable": false,
+  "editor.minimap.enabled": false
+}
