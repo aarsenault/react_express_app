@@ -1,10 +1,10 @@
 const mongoose = require('mongoose');
-const {Schema} = mongoose; 
+const { Schema } = mongoose;
 // same as
 // const Schema = mongoose.Schema;
 
 const userSchema = new Schema({
-	googleId: String
+  googleId: String
 });
 
-mongoose.model('users', userSchema); 
+mongoose.model('users', userSchema);

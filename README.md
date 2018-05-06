@@ -1,6 +1,5 @@
 # React Node Example App
 
-
 ## Requirements
 
-* use Node 
+* use Node
